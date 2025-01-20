@@ -8,4 +8,4 @@ npm install
 npm run dev
 
 ```
-# Deployed link of project [https://profiles-database.vercel.app/](https://profiles-database.vercel.app/) .
+ Deployed link of project [https://profiles-database.vercel.app/](https://profiles-database.vercel.app/) .

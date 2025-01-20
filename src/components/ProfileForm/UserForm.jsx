@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Modal from "../Modal";
 import InputField from "./InputField";
 import ImageUploader from "../ImageUploader/ImageUploader";
@@ -36,7 +35,7 @@ const UserForm = ({ isOpen, onClose, formData, handleChange, handleSubmit, handl
             name="address"
             value={formData.address}
             onChange={handleChange}
-            placeholder="Enter a description"
+            placeholder="Enter complete address"
           />
           <button
             type="submit"
